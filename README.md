@@ -21,5 +21,5 @@
     <img width="1000" src="Figs/12.png"/>
     <img width="1000" src="Figs/13.png"/>   
   <img width="1000" src="Figs/14.png"/>  
-   <div align=center><strong>Fig. 1. The generation results of TPMS generator</strong></div>
+   <div align=center><strong>Fig. 1. The generations of TPMS generator</strong></div>
 </div><br>    
