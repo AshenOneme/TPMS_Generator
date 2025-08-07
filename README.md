@@ -18,5 +18,8 @@
   <img width="1000" src="Figs/9.png"/>
     <img width="1000" src="Figs/10.png"/>   
   <img width="1000" src="Figs/11.png"/>   
+    <img width="1000" src="Figs/12.png"/>
+    <img width="1000" src="Figs/13.png"/>   
+  <img width="1000" src="Figs/14.png"/>  
    <div align=center><strong>Fig. 1. The workflow of MultiDampGen framework</strong></div>
 </div><br>    
